@@ -1,0 +1,20 @@
+    1  pwd
+    2  sudo yum install httpd -y
+    3  sudo service httpd start
+    4  sudo service httpd status
+    5  ls
+    6  lsblk
+    7  ls
+    8  pwd
+    9  ls
+   10  pwd
+   11  lsblk
+   12  mkfs.ext4 /dev/sdf
+   13  sudo mkfs.ext4 /dev/sdf
+   14  sudo mkdir /opt/mydata
+   15  sudo mount /dev/sdf /opt/mydata
+   16  lsblk
+   17   sudo blkid
+   18  sudo vi /etc/fstab
+   19  lsblk
+   20  history
